@@ -1,0 +1,37 @@
+/* EditUser.css */
+.container {
+    display: flex; 
+    flex-direction: row;
+    padding: 20px;
+  }
+  
+  .desc-usuario1, .desc-usuario2 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 0px 50px 50px 50px; 
+  }
+  
+  /* Estilo específico para .info-usuario */
+  .info-usuario {
+    width: 400px;
+    padding: 10px;
+    background-color: rgba(62, 105, 144, 0.5);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 2px solid #3E6990;
+  }
+
+  .f-boton {
+    width: 110px;
+    background-color: rgba(62, 105, 144);
+    border-color: rgba(62, 105, 144);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    box-shadow: none;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+}
+  

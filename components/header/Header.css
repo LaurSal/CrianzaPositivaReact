@@ -1,0 +1,15 @@
+/* Header.css */
+.navbar {
+    background-color: #381D2A;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 1px 10px;
+  }
+  
+  .logo-container {
+    padding-right: 1150px;
+  }
+  
+  /* Asegúrate de que no haya estilos adicionales que anulen la alineación del botón */
+  

@@ -1,0 +1,16 @@
+.footer {
+    background-color: #7294AB;
+    color: #F5E7C6;
+    padding: 20px 15px 15px 15px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;  /* Cambia la dirección del flexbox a columna */
+  }
+  
+  .row {
+    max-width: 400px;  
+    margin-left: 0;     
+  }
+  

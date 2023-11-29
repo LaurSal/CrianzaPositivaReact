@@ -1,0 +1,41 @@
+/* UserTable.css */
+.user-table {
+    width: 90%;
+    margin: 40px auto;
+    overflow: hidden;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    border: 2px solid #3E6990;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #3E6990;
+    color: #FFFFFF;
+  }
+  
+  td {
+    background-color: #FFFFFF;
+  }
+  
+  button {
+    background-color: #3E6990;
+    border: none;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  button:hover {
+    background-color: #3E6990;
+  }
+  

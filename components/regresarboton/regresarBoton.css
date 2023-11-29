@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400&family=Rubik:ital,wght@0,300;0,400;1,300&display=swap');
+
+.h-boton {
+    width: 120px;
+    background-color: #82A6B1;
+    border-color: #82A6B1;
+    padding: 7px 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    box-shadow: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Cabin', sans-serif;
+    cursor: pointer;
+    border: none;
+    font-size: medium;
+}
+
+.h-boton:hover {
+    background-color: #273c44;
+}
