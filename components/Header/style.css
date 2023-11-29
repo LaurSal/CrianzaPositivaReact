@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400&family=Rubik:ital,wght@0,300;0,400;1,300&display=swap');
+
+.custom-navbar-bg {
+    background-color: #381D2A; 
+    text-align: justify;
+    font-family: 'Rubik', sans-serif;
+}
+
+.custom-navbar-bg a {
+    color: #FFFFFF;
+    font-family: 'Rubik', sans-serif;
+}
+
+.navbar-nav .nav-link.active {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.navbar-nav a:hover, .navbar-nav .nav-link.active:hover {
+    color: #AABD8C;    
+}
+
+.navbar-nav .nav-link{
+    margin-right: 15px;
+}
+
