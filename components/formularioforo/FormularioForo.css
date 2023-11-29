@@ -1,0 +1,27 @@
+
+.info-foro {
+    width: 400px;
+    padding: 10px;
+    background-color: rgba(62, 105, 144, 0.5);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 2px solid #3E6990;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.f-boton {
+    width: 110px;
+    background-color: rgba(62, 105, 144);
+    border-color: rgba(62, 105, 144);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    box-shadow: none;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
